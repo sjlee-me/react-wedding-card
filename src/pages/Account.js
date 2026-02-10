@@ -35,7 +35,7 @@ function ContactButton({ person, account, kakaopay }) {
   function Account() {
     const groom_contact = [
       { person: "신랑 이승준", account: "우리은행 1002-256-544816" },
-      { person: "어머니 신민화", account: "농협 622-910075-43007" },
+      { person: "어머니 신민화", account: "하나은행 622-910075-43007" },
     ];
 
     const bride_contact = [
