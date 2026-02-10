@@ -5,15 +5,14 @@ import { HiMail } from "react-icons/hi";
 function ContactModal({closeModal}) {
 
   const groomContact = [
-    { person: "신랑 김신랑", phone: "01012345678" },
-    { person: "아버지 김아빠", phone: "01012345678" },
-    { person: "어머니 박엄마", phone: "01012345678" },
+    { person: "신랑 이승준", phone: "01080334137" },
+    { person: "어머니 신민화", phone: "01033724135" },
   ];
 
   const brideContact = [
-    { person: "신부 이신부", phone: "01012345678" },
-    { person: "아버지 이아빠", phone: "01012345678" },
-    { person: "어머니 우엄마", phone: "01012345678" },
+    { person: "신부 윤희진", phone: "01099732684" },
+    { person: "아버지 윤영규", phone: "01035461865" },
+    { person: "어머니 이정희", phone: "01025371865" },
   ];
 
 

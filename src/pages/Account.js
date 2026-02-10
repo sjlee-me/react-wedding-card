@@ -34,15 +34,14 @@ function ContactButton({ person, account, kakaopay }) {
 
   function Account() {
     const groom_contact = [
-      { person: "신랑 김신랑", account: "우리은행 1002-123-456789", kakaopay: "" },
-      { person: "아버지 김아빠", account: "우리은행 0123456789", kakaopay: "" },
-      { person: "어머니 박엄마", account: "농협은행 0123456789", kakaopay: "" },
+      { person: "신랑 이승준", account: "우리은행 1002-256-544816" },
+      { person: "어머니 신민화", account: "농협 622-910075-43007" },
     ];
 
     const bride_contact = [
-        { person: "신부 이신부", account: "토스뱅크 1000-0123-4567" , kakaopay: "" },
-        { person: "아버지 이아빠", account: "기업은행 0123456789", kakaopay: ""},
-        { person: "어머니 우엄마", account: "국민은행 0123456789", kakaopay: "" },
+        { person: "신부 윤희진", account: "농협 302-9973-2684-91" },
+        { person: "아버지 윤영규", account: "우리은행 706-07-084233" },
+        { person: "어머니 이정희", account: "농협 752-12-026234" },
       ];
   
     return (
@@ -51,12 +50,12 @@ function ContactButton({ person, account, kakaopay }) {
         <div className='contact__title'>마음 전하는 곳</div>
         <div className="contact__boxes">
           {groom_contact.map((contact, index) => (
-            <ContactButton key={index} person={contact.person} account={contact.account} kakaopay={contact.kakaopay}/>
+            <ContactButton key={index} person={contact.person} account={contact.account}/>
           ))}
         </div>
         <div className="contact__boxes">
           {bride_contact.map((contact, index) => (
-            <ContactButton key={index} person={contact.person} account={contact.account} kakaopay={contact.kakaopay}/>
+            <ContactButton key={index} person={contact.person} account={contact.account}/>
           ))}
         </div>
         <div className="contact__guide-text">아이콘을 클릭하시면 계좌번호를 확인할 수 있습니다.</div>
