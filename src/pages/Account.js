@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import flower from '../images/flower.png'
+// import flower from '../images/flower.png'
 // import { MdOutlinePhoneIphone } from "react-icons/md";
 import { FaMoneyCheck } from "react-icons/fa6";
 import Modal from '../components/Modal';
@@ -47,7 +47,7 @@ function ContactButton({ person, account, kakaopay }) {
   
     return (
       <div className="container">
-        <img src={flower} className="flower" alt="flower"/>
+        {/* <img src={flower} className="flower" alt="flower"/> */}
         <div className='contact__title'>마음 전하는 곳</div>
         <div className="contact__boxes">
           {groom_contact.map((contact, index) => (

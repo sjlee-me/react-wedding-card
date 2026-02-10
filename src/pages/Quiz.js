@@ -4,35 +4,35 @@ import '../css/Quiz.css';
 const questions = [
     {
       questionText: '신혼여행지로 올바른 곳은?',
-      correctAnswer: '저희는 영국, 스페인으로 여행갑니다.',
+      correctAnswer: '저희는 발리, 일본으로 여행갑니다.',
       answerOptions: [
         { answerText: '호주', isCorrect: false },
-        { answerText: '캐나다', isCorrect: false },
-        { answerText: '스위스', isCorrect: false },
-        { answerText: '영국', isCorrect: true },
-        { answerText: '스페인', isCorrect: true },
+        { answerText: '발리', isCorrect: true },
+        { answerText: '일본', isCorrect: true },
+        { answerText: '영국', isCorrect: false },
+        { answerText: '스페인', isCorrect: false },
       ],
     },
     {
-      questionText: '함께 여행한 국가가 아닌 곳은?',
-      correctAnswer: '베트남은 함께 간 적이 없습니다.',
+      questionText: '웨딩 촬영 총 몇 번 했을까요?',
+      correctAnswer: '총 8 번입니다!',
       answerOptions: [
-        { answerText: '일본', isCorrect: false },
-        { answerText: '홍콩', isCorrect: false },
-        { answerText: '마카오', isCorrect: false },
-        { answerText: '라오스', isCorrect: false },
-        { answerText: '베트남', isCorrect: true },
+        { answerText: '1', isCorrect: false },
+        { answerText: '2', isCorrect: false },
+        { answerText: '4', isCorrect: false },
+        { answerText: '6', isCorrect: false },
+        { answerText: '8', isCorrect: true },
       ],
     },
     {
       questionText: '함께 하지 않은 활동은?',
-      correctAnswer: '롯데월드는 함께 간 적이 없어요. 경주월드, 이월드, 디즈니랜드는 함께 갔습니다.',
+      correctAnswer: '함께 PC방에 가본 적이 없어요.',
       answerOptions: [
-        { answerText: '마라톤 10km 뛰기', isCorrect: false },
-        { answerText: '한라산 등산하기', isCorrect: false },
-        { answerText: '만리포해수욕장에서 서핑하기', isCorrect: false },
-        { answerText: '롯데월드에서 놀이기구 타기', isCorrect: true },
-        { answerText: 'PC방에서 게임하기', isCorrect: false },
+        { answerText: '만화카페 가기', isCorrect: false },
+        { answerText: 'PC방에서 게임하기', isCorrect: true },
+        { answerText: '캘리포니아비치에서 물놀이하기', isCorrect: false },
+        { answerText: '경주월드에서 놀이기구 타기', isCorrect: false },
+        { answerText: '동물원에서 새 먹이 주기', isCorrect: false },
       ],
     }
   ];
