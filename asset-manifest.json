@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/react-wedding-card/static/css/main.0d066cee.css",
-    "main.js": "/react-wedding-card/static/js/main.69cf8c95.js",
+    "main.js": "/react-wedding-card/static/js/main.217d5ece.js",
     "static/js/787.d00bc756.chunk.js": "/react-wedding-card/static/js/787.d00bc756.chunk.js",
-    "static/media/taeyeon_poem.mp3": "/react-wedding-card/static/media/taeyeon_poem.13d16db4a02836cf5d9d.mp3",
+    "static/media/gifted_hey_buddy.mp3": "/react-wedding-card/static/media/gifted_hey_buddy.c9700e5b63c1df86455e.mp3",
     "static/media/부크크명조_얇은글씨.woff": "/react-wedding-card/static/media/부크크명조_얇은글씨.4dd24ae27c5fa573aaf0.woff",
     "static/media/부크크명조_굵은글씨.woff": "/react-wedding-card/static/media/부크크명조_굵은글씨.e8da3dec364cd90e0d16.woff",
     "static/media/photo.png": "/react-wedding-card/static/media/photo.d7e57a709cf047e53b8d.png",
@@ -22,11 +22,11 @@
     "static/media/naver.webp": "/react-wedding-card/static/media/naver.7717483eebafa7435918.webp",
     "index.html": "/react-wedding-card/index.html",
     "main.0d066cee.css.map": "/react-wedding-card/static/css/main.0d066cee.css.map",
-    "main.69cf8c95.js.map": "/react-wedding-card/static/js/main.69cf8c95.js.map",
+    "main.217d5ece.js.map": "/react-wedding-card/static/js/main.217d5ece.js.map",
     "787.d00bc756.chunk.js.map": "/react-wedding-card/static/js/787.d00bc756.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d066cee.css",
-    "static/js/main.69cf8c95.js"
+    "static/js/main.217d5ece.js"
   ]
 }
