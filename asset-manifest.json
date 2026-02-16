@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-wedding-card/static/css/main.0d066cee.css",
-    "main.js": "/react-wedding-card/static/js/main.6f98c487.js",
+    "main.js": "/react-wedding-card/static/js/main.4cb55a3e.js",
     "static/js/787.d00bc756.chunk.js": "/react-wedding-card/static/js/787.d00bc756.chunk.js",
     "static/media/gifted_hey_buddy.mp3": "/react-wedding-card/static/media/gifted_hey_buddy.c9700e5b63c1df86455e.mp3",
     "static/media/p_01717.jpg": "/react-wedding-card/static/media/p_01717.5412cff01b9e83ff0ee5.jpg",
@@ -21,11 +21,11 @@
     "static/media/naver.webp": "/react-wedding-card/static/media/naver.7717483eebafa7435918.webp",
     "index.html": "/react-wedding-card/index.html",
     "main.0d066cee.css.map": "/react-wedding-card/static/css/main.0d066cee.css.map",
-    "main.6f98c487.js.map": "/react-wedding-card/static/js/main.6f98c487.js.map",
+    "main.4cb55a3e.js.map": "/react-wedding-card/static/js/main.4cb55a3e.js.map",
     "787.d00bc756.chunk.js.map": "/react-wedding-card/static/js/787.d00bc756.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d066cee.css",
-    "static/js/main.6f98c487.js"
+    "static/js/main.4cb55a3e.js"
   ]
 }
