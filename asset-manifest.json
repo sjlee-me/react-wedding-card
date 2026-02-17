@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-wedding-card/static/css/main.0d066cee.css",
-    "main.js": "/react-wedding-card/static/js/main.5dccf498.js",
+    "main.js": "/react-wedding-card/static/js/main.922e0bee.js",
     "static/js/787.d00bc756.chunk.js": "/react-wedding-card/static/js/787.d00bc756.chunk.js",
     "static/media/gifted_hey_buddy.mp3": "/react-wedding-card/static/media/gifted_hey_buddy.c9700e5b63c1df86455e.mp3",
-    "static/media/cover.jpg": "/react-wedding-card/static/media/cover.b1318d9927528a3b9511.jpg",
     "static/media/p_01717.jpg": "/react-wedding-card/static/media/p_01717.5412cff01b9e83ff0ee5.jpg",
     "static/media/p_02902.jpg": "/react-wedding-card/static/media/p_02902.8ee0e5221728b59cdaf2.jpg",
     "static/media/p_02436.jpg": "/react-wedding-card/static/media/p_02436.4e7747b80aa9efb445e7.jpg",
     "static/media/p_02225.jpg": "/react-wedding-card/static/media/p_02225.d0e7386e1bd4a30826d1.jpg",
+    "static/media/cover.jpg": "/react-wedding-card/static/media/cover.dd319135b8af406a6341.jpg",
     "static/media/p_02033.jpg": "/react-wedding-card/static/media/p_02033.dd319135b8af406a6341.jpg",
     "static/media/p_02855.jpg": "/react-wedding-card/static/media/p_02855.b35f0b5cd463eb28c053.jpg",
     "static/media/p_02520.jpg": "/react-wedding-card/static/media/p_02520.e6427e6596649edc9039.jpg",
@@ -22,11 +22,11 @@
     "static/media/naver.webp": "/react-wedding-card/static/media/naver.7717483eebafa7435918.webp",
     "index.html": "/react-wedding-card/index.html",
     "main.0d066cee.css.map": "/react-wedding-card/static/css/main.0d066cee.css.map",
-    "main.5dccf498.js.map": "/react-wedding-card/static/js/main.5dccf498.js.map",
+    "main.922e0bee.js.map": "/react-wedding-card/static/js/main.922e0bee.js.map",
     "787.d00bc756.chunk.js.map": "/react-wedding-card/static/js/787.d00bc756.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d066cee.css",
-    "static/js/main.5dccf498.js"
+    "static/js/main.922e0bee.js"
   ]
 }
