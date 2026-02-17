@@ -36,8 +36,21 @@
     ></script>
     <!-- Kakao SDK (Version 2.7.9) -->
     <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.9/kakao.min.js" integrity="sha384-JpLApTkB8lPskhVMhT+m5Ln8aHlnS0bsIexhaak0jOhAkMYedQoVghPfSpjNi9K1" crossorigin="anonymous"></script>  
+    <style>
+      body {
+        -webkit-touch-callout: none; /* iOS Safari에서 길게 누르기 팝업 방지 */
+        -webkit-user-select: none;   /* Chrome, Safari, Opera */
+        -moz-user-select: none;      /* Firefox */
+        -ms-user-select: none;       /* IE/Edge */
+        user-select: none;           /* 표준 */
+      }
+      input, textarea {
+        -webkit-user-select: text;   /* 입력창에서는 텍스트 선택 허용 */
+        user-select: text;
+      }
+    </style>
   </head>
-  <body>
+  <body oncontextmenu="return false" ondragstart="return false">
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
